@@ -53,9 +53,6 @@ Progress Bar :
 	License URL : https://opensource.org/licenses/MIT
 
 
-
-
-
 Google Fonts : 
 
 	Open Sans Font:
